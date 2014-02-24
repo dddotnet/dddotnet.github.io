@@ -44,7 +44,7 @@ layout: head_layout
         <div class="row featurette">
             <div style="max-width: 990px; margin: 0 auto; padding:10px">
                 <h2 class="featurette-heading" style="margin: 0px; margin-bottom: 20px; margin-top: 45px"> Alle unsere Treffen</h2>
-                <div style="background-color: #f3f3f3; padding: 25px; padding-top: 10px; border-radius: 4px">
+                <div style="background-color: #f3f3f3; padding: 25px; padding-top: 10px; border-radius: 4px; word-break: break-all">
                     <div>
                          
         <table class="table">
@@ -98,27 +98,6 @@ layout: head_layout
     <script src="Scripts/jquery.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
     <script src="Scripts/carousel.js"></script>
-
-    <script type="text/javascript">
-        $(function () {
-            $('#myCarousel').carousel({
-                interval: 5000,
-                pause: "hover"
-            }).carousel('cycle');
-        });
-
-    </script>
-
-    <script type="text/javascript">
-        $(document).ready(function () {
-            $('.carousel-inner > .item > img').each(function (index) {
-
-                $(this).css('margin-left', -(($('.item').width()) + 'px'));
-
-            }
-        )
-        });
-    </script>
 
 </body>
 </html>
