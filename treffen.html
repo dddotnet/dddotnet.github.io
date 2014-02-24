@@ -1,4 +1,4 @@
-﻿---
+---
 
 ---
 
@@ -6,7 +6,7 @@
 <html lang="de">
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.png">
@@ -27,7 +27,7 @@
 </head>
 <!-- NAVBAR
 ================================================== -->
-<body>
+<body style="min-width:400px">
     <div class="navbar-wrapper">
         <div class="container">
 
@@ -55,43 +55,49 @@
         </div>
     </div>
 
+    
     <!-- Marketing messaging and featurettes
     ================================================== -->
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
     <div class="container marketing">
 
+<hr class="featurette-divider" style="margin: 30px">
+
         <div class="row featurette">
-            <div style="max-width: 990px; margin: 0 auto; padding: 10px">
-                <h2 class="featurette-heading" style="margin: 0px; margin-bottom: 20px; margin-top: 45px">{{ page.title }} </h2>
+            <div style="max-width: 990px; margin: 0 auto; padding:10px">
+                <h2 class="featurette-heading" style="margin: 0px; margin-bottom: 20px; margin-top: 45px"> Alle unsere Treffen</h2>
                 <div style="background-color: #f3f3f3; padding: 25px; padding-top: 10px; border-radius: 4px">
                     <div>
-                        
-                        <table class="table">
-                            <thead>
-                                <tr>
-                                    <th>Datum</th>
-                                    <th>Thema</th>
-                                    <th>Sprecher</th>
-                                    <th>Ort</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                {% for post in site.posts %}
-                                <tr>
-                                    <td>{{ post.date | date: '%d.%m.%Y | %H:%M Uhr' }}</td>
-                                    <td><a href="{{ post.url }}">{{ post.title }}</a></td>
-                                    <td>{{ post.speaker }}</td>
-                                    <td><a href="{{ post.placelink }}" target="_blank">{{ post.place }}</a></td>
-                                </tr>
-                                {% endfor %}
-                            </tbody>
-                        </table>
+                         
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Datum</th>
+                    <th>Thema</th>
+                    <th>Sprecher</th>
+                    <th>Ort</th>
+                </tr>
+            </thead>
+            <tbody>
+             {% assign nowDate = site.time | date: '%Y%m%d' %}
 
-                    </div>
-                </div>
-            </div>
-        </div>
+             {% for post in site.posts %}
+                {% assign postDate = (post.date | date: '%Y%m%d') %}
+                {% if postDate >= nowDate %}
+                   <tr>
+                       <td>{{ post.date | date: '%d.%m.%Y | %H:%M Uhr' }}</td>
+                       <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+                       <td>{{ post.speaker }}</td>
+                       <td><a href="{{ post.placelink }}" target="_blank">{{ post.place }}</a></td>
+                   </tr>
+
+                {% endif %}
+              {% endfor %}
+            </tbody>
+        </table>
+
+
 
         <hr class="featurette-divider">
 
@@ -101,7 +107,7 @@
         <!-- FOOTER -->
         <footer>
             <p class="pull-right"><a href="#">Nach oben</a></p>
-            <p>2014 .NET User Group Dresden &middot; <a href="impressum.html">Impressum</a></p>
+            <p>Bilder von <a href="http://www.timapix.de/">timapix.de</a> &middot; <a href="impressum.html">Impressum</a></p>
         </footer>
 
     </div>
@@ -115,6 +121,27 @@
     <script src="Scripts/jquery.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
     <script src="Scripts/carousel.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#myCarousel').carousel({
+                interval: 5000,
+                pause: "hover"
+            }).carousel('cycle');
+        });
+
+    </script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.carousel-inner > .item > img').each(function (index) {
+
+                $(this).css('margin-left', -(($('.item').width()) + 'px'));
+
+            }
+        )
+        });
+    </script>
 
 </body>
 </html>
