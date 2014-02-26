@@ -8,7 +8,7 @@ VERSION:1.0
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT60M
 X-WR-CALNAME:.NET User Group Dresden
-{% for posts in site.posts %}
+{% for post in site.posts %}
 BEGIN:VEVENT
 {% assign endDate = post.date | date: '%H' %}
 DTSTART:{{ post.date | date: '%Y%m%dT%H%M%SZ' }}
