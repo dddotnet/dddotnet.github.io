@@ -10,9 +10,9 @@ X-PUBLISHED-TTL:PT60M
 X-WR-CALNAME:.NET User Group Dresden{% for post in site.posts %}
 BEGIN:VEVENT{% assign endDate = post.date | date: '%H' %}
 DTSTART:{{ post.date | date: '%Y%m%dT%H%M%SZ' }}
-DTEND:{{ post.date | date: '%Y%m%dTendDate | plus: 2%M"SZ' }}
-DTSTAMP:{{ site.time | date:' %Y%m%dT%H%M%SZ' }}
-LAST-MODIFIED:{{ site.time | date:' %Y%m%dT%H%M%SZ' }}
+DTEND:{{ post.date | date: '%Y%m%dT' }}{{ endDate | plus: 2 }}{{post.date | date: '%M%SZ' }}
+DTSTAMP:{{ site.time | date: '%Y%m%dT%H%M%SZ' }}
+LAST-MODIFIED:{{ site.time | date: '%Y%m%dT%H%M%SZ' }}
 LOCATION:{{ post.place }}
 CATEGORIES:.NET User Group Dresden
 CLASS:PUBLIC
