@@ -56,11 +56,10 @@ layout: head_layout
                 </tr>
             </thead>
             <tbody>
-             {% assign nowDate = site.time | date: '%Y%m%d' %}
+             
 
              {% for post in site.posts %}
-                {% assign postDate = (post.date | date: '%Y%m%d') %}
-                {% if postDate >= nowDate %}
+                
                    <tr>
                        <td>{{ post.date | date: '%d.%m.%Y | %H:%M Uhr' }}</td>
                        <td><a href="{{ post.url }}">{{ post.title }}</a></td>
@@ -68,7 +67,7 @@ layout: head_layout
                        <td><a href="{{ post.placelink }}" target="_blank">{{ post.place }}</a></td>
                    </tr>
 
-                {% endif %}
+                
               {% endfor %}
             </tbody>
         </table>
