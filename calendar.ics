@@ -7,10 +7,8 @@ PRODID:-//Microsoft Corporation//Outlook MIMEDIR//EN
 VERSION:1.0
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT60M
-X-WR-CALNAME:.NET User Group Dresden
-{% for post in site.posts %}
-BEGIN:VEVENT
-{% assign endDate = post.date | date: '%H' %}
+X-WR-CALNAME:.NET User Group Dresden {% for post in site.posts %}
+BEGIN:VEVENT {% assign endDate = post.date | date: '%H' %}
 DTSTART:{{ post.date | date: '%Y%m%dT%H%M%SZ' }}
 DTEND:{{ post.date | date: '%Y%m%dTendDate | plus: 2%M"SZ' }}
 DTSTAMP:{{ site.time | date:' %Y%m%dT%H%M%SZ' }}
@@ -20,6 +18,5 @@ CATEGORIES:.NET User Group Dresden
 CLASS:PUBLIC
 DESCRIPTION:{{ post.url }}
 SUMMARY:{{ post.title }}
-END:VEVENT
-{% endfor %}
+END:VEVENT {% endfor %}
 END:VCALENDAR
