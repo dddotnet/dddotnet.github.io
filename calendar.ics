@@ -19,7 +19,7 @@ TZOFFSETTO:-0100
 LOCATION:{{ post.place }}
 CATEGORIES:.NET User Group Dresden
 CLASS:PUBLIC
-DESCRIPTION:{{ post.url }}
+DESCRIPTION:http://www.dd-dotnet.de{{ post.url }}
 SUMMARY:{{ post.title }}
 END:VEVENT{% endfor %}
 END:VCALENDAR
