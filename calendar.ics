@@ -8,9 +8,10 @@ VERSION:1.0
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT60M
 X-WR-CALNAME:.NET User Group Dresden{% for post in site.posts %}
+X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT{% assign endDate = post.date | date: '%H' %}
-DTSTART:{{ post.date | date: '%Y%m%dT%H%M%S' }}
-DTEND:{{ post.date | date: '%Y%m%dT' }}{{ endDate | plus: 2 }}{{post.date | date: '%M%S' }}
+DTSTART;TZID=Europe/Berlin:{{ post.date | date: '%Y%m%dT%H%M%S' }}
+DTEND;TZID=Europe/Berlin:{{ post.date | date: '%Y%m%dT' }}{{ endDate | plus: 2 }}{{post.date | date: '%M%S' }}
 DTSTAMP:{{ site.time | date: '%Y%m%dT%H%M%S' }}
 LAST-MODIFIED:{{ site.time | date: '%Y%m%dT%H%M%S' }}
 TZOFFSETFROM:-0100
