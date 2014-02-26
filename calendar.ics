@@ -7,8 +7,8 @@ PRODID:-//Microsoft Corporation//Outlook MIMEDIR//EN
 VERSION:1.0
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT60M
-X-WR-CALNAME:.NET User Group Dresden{% for post in site.posts %}
-X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALNAME:.NET User Group Dresden
+X-WR-TIMEZONE:Europe/Berlin{% for post in site.posts %}
 BEGIN:VEVENT{% assign endDate = post.date | date: '%H' %}
 DTSTART;TZID=Europe/Berlin:{{ post.date | date: '%Y%m%dT%H%M%S' }}
 DTEND;TZID=Europe/Berlin:{{ post.date | date: '%Y%m%dT' }}{{ endDate | plus: 2 }}{{post.date | date: '%M%S' }}
