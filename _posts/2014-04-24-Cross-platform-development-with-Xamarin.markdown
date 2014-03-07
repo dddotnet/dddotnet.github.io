@@ -17,4 +17,4 @@ Sebastian Seidel ist Softwareentwickler, mobile Enthusiast, Trainer und Premier 
 
 ###Ort und Zeit
 
-Wir treffen uns 18:00 Uhr bei der [T-Systems MMS](http://www.t-systems-mms.com/). Bitte tragt euch in die [Gästeliste](https://www.xing.com/events/einladung-treffen-24-04-2014-cross-platform-development-with-xamarin-1375140) ein.
+Wir treffen uns am 24.04.2014 um 18:00 Uhr bei der [T-Systems MMS](http://www.t-systems-mms.com/). Bitte tragt euch in die [Gästeliste](https://www.xing.com/events/einladung-treffen-24-04-2014-cross-platform-development-with-xamarin-1375140) ein.
