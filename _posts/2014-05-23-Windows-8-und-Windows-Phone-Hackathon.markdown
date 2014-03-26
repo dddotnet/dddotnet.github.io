@@ -4,7 +4,7 @@ title:  "Windows 8 und Windows Phone Hackathon"
 date:   2014-05-23 18:00:00
 categories: treffen
 speaker: -
-place: Grundbesitz Hellerau GmbH
+place: "Werkstätten Hellerau"
 placelink: http://www.bing.com/maps/default.aspx?rtp=~adr.Moritzburger+Weg+67+01109+Dresden+Deutschland&where1=Moritzburger+Weg+67+01109+Dresden+Deutschland
 ---
 ### Hackathon in Kooperation mit der Heinrich & Reuter Solutions GmbH
