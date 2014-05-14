@@ -1,7 +1,7 @@
 ---
 layout: postnew
 title:  "TypeScript – Was ist es und warum nochmal genau ist es so toll?"
-date:   2014-07-24 18:00:00+0200
+date:   2014-06-19 18:00:00+0200
 categories: treffen
 speaker: Kirsten Kluge
 place: ProTechnology GmbH
