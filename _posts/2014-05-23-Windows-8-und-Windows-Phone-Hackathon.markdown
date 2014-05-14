@@ -1,7 +1,7 @@
 ---
 layout: postnew
 title:  "Windows 8 und Windows Phone Hackathon"
-date:   2014-05-23 18:00:00
+date:   2014-05-23 18:00:00+0200
 categories: treffen
 speaker: Hackathon
 place: "Werkstätten Hellerau"
@@ -28,7 +28,7 @@ Sie kennen bereits die Möglichkeiten der Microsoft-Plattform für die App-Entwi
 
 * Laptop mit Windows 8 und einer Edition von Visual Studio 2012 oder Visual Studio 2013 (kostenloses Windows 8 SDK | kostenloses Windows Phone SDK)
  
-*  Ihr Wissen in Sachen Windows 8- und Windows Phone-Entwicklung
+* Ihr Wissen in Sachen Windows 8- und Windows Phone-Entwicklung
  
 * Eine grandiose Idee für die nächste Top App
 

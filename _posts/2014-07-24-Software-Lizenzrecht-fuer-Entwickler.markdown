@@ -1,9 +1,9 @@
 ---
 layout: postnew
 title:  "Software-Lizenzrecht für Entwickler – warum es sich manchmal lohnt das Kleingedruckte zu lesen"
-date:   2014-07-24 18:00:00
+date:   2014-07-24 18:00:00+0200
 categories: treffen
-speaker: Antje Kilián
+speaker: Antje Kilian
 place: T-Systems MMS Dresden
 placelink: https://goo.gl/maps/cXLm4
 ---
