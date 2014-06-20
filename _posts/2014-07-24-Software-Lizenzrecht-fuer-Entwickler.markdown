@@ -17,3 +17,8 @@ Um dies zu vermeiden gilt es sich frühzeitig mit dem ungeliebten Thema auseinan
 
 ### Sprecherin
 Antje Kilián hat einen Masterabschluss in IT-Recht an der Leibnitz Universität Hannover und der Strathclyde University Glasgow erworben und arbeitet seitdem bei der Heinrich & Reuter Solutions GmbH in Dresden. Mit ihrem juristischen Fachwissen unterstützt sie das Team bei der Umsetzung von Softwareprojekten für Kunden verschiedenster Größenordnung. In ihrer Freizeit unterstützt sie den deutschen Entwicklerblog Code-Inside (http://code-inside.de/blog/) mit der Pflege der englischsprachigen Seite und mit einigen Gastbeiträgen zu juristischen Themen. 
+
+###Ort und Zeit
+
+Wir treffen uns am 24.07.2014 um 18:00 Uhr bei der [T-Systems MMS](http://www.t-systems-mms.com/). Bitte tragt euch in die [Gästeliste](https://www.xing.com/events/software-lizenzrecht-entwickler-1418563) ein.
+
