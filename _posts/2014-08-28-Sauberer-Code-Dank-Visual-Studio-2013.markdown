@@ -1,7 +1,7 @@
 ---
 layout: postnew
 title:  "Sauberer Code Dank Visual Studio 2013"
-date:   2014-08-28 18:00:00+0200
+date:   2014-08-28 18:00:00
 categories: treffen
 speaker: Hendrik Lösch
 place: Saxonia Systems
