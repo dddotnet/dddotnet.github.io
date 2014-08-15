@@ -1,7 +1,7 @@
 ---
 layout: postnew
 title:  "Kontextabhängige Anwendungen mit on{x}, Windows Phone 8.1 & Co."
-date:   2014-09-17 18:00:00+0200
+date:   2014-09-17 18:00:00
 categories: treffen
 speaker: Christian Heindel
 place: InQu Informatics GmbH
