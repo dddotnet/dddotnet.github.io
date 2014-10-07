@@ -7,11 +7,7 @@ speaker: Konferenz
 place: Commundo Tagungshotel Leipzig
 placelink: https://www.google.com/maps/d/viewer?mid=z0kykw6Ts4QI.k6w58SF9MlIA&msa=0&hl=de&ie=UTF8&t=m&spn=0.026811,0.100422
 ---
-
-
-##Developer Open Space 2014
-
-<img style=" margin: 100px 10px 0px 0px; display: inline; height:100px;" src="http://devopenspace.de/img/wahl-logo.png" />
+<img style=" margin: 0px 0px 10px 0px; display: inline; height:100px;float:left;" src="http://devopenspace.de/img/wahl-logo.png" />
 
 Die (Un-)Konferenz Developer Open Space besitzt keine Rollenaufteilung in „Sprecher und Zuhörer“. Stattdessen steht der Erfahrungsaustausch sowie der Ausbau des eigenen Netzwerkes bei einem Kaffee im Vordergrund. Die Agenda bestimmen die Teilnehmer selbstständig vor Ort, anstatt einem Konferenzbetreiber inhaltlich zu folgen.
 
