@@ -17,7 +17,7 @@ Technische Themen, die von der Community vor Ort diskutiert werden, reichen von 
 
 Jeder ist bei uns per du. Der Developer Open Space ist offen und jeder ist gleichberechtigt. Deine Auszeichnungen und deine Titel zählen nicht, es sei denn, du wirst danach gefragt. Magst du das nicht, melde dich nicht zum Developer Open Space an; so sind immer die richtigen Leute vor Ort.
 
-http://devopenspace.de/
+[http://devopenspace.de/](http://devopenspace.de/)
 
 ###Beginn Workshops / Developer Open Space
 
