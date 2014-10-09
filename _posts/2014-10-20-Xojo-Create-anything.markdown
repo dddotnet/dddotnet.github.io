@@ -9,7 +9,7 @@ placelink: https://goo.gl/maps/cXLm4
 ---
 ## Xojo
 
-Create Anything ist der Leitspruch von Xojo. In einer Einführung erfahren wir, was Xojo genau ist und wo dessen Wurzeln liegen. Wir lernen die IDe und die Sprache selbst kennen. Schon ein kleiner Vorgeschmack: Es gibt nur wenige Unterschiede zu VB, jedoch kann Xojo mit einigen großen Stärken gegenüber VB punkten.
+Create Anything ist der Leitspruch von Xojo. In einer Einführung erfahren wir, was Xojo genau ist und wo dessen Wurzeln liegen. Wir lernen die IDE und die Sprache selbst kennen. Schon ein kleiner Vorgeschmack: Es gibt nur wenige Unterschiede zu VB, jedoch kann Xojo mit einigen großen Stärken gegenüber VB punkten.
 Wir werden uns die Entwicklung einer Web-App ansehen und können dabei direkt Vergleiche zu ASP.NET, Silverlight und anderen Technologien ziehen. Und wir werden sehen, wie einfach man Desktop-Apps erstellen kann und wie hoch dann die Wiederverwendbarkeit sein wird.
 
 ### Sprecher
