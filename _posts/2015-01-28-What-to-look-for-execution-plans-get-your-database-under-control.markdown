@@ -1,6 +1,6 @@
 ---
 layout: postnew
-title:  "User Group Tour: What to look for in Execution Plans / Get your database under control mit Unterstützung von Red Gate"
+title:  "User Group Tour: What to look for in Execution Plans / Get your database under control"
 date:   2015-01-28 18:00:00
 categories: treffen
 speaker: Grant Fritchey 
