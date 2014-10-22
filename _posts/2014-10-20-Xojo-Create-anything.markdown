@@ -1,6 +1,6 @@
 ---
 layout: postnew
-title:  "Xojo"
+title:  "Achtung Vortrag wird verschoben: Xojo"
 date:   2014-10-22 18:00:00
 categories: treffen
 speaker: Lars Lehmann
