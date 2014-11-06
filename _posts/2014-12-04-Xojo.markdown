@@ -1,0 +1,31 @@
+---
+layout: postnew
+title:  "Xojo + Weihnachts Treffen"
+date:   2014-12-4 18:00:00
+categories: treffen
+speaker: Lars Lehmann
+place: Saxonia Systems
+placelink: https://www.google.de/maps/place/Saxonia+Systems+AG/@51.030626,13.730163,17z
+---
+## Xojo
+
+Create Anything ist der Leitspruch von Xojo. In einer Einführung erfahren wir, was Xojo genau ist und wo dessen Wurzeln liegen. Wir lernen die IDE und die Sprache selbst kennen. Schon ein kleiner Vorgeschmack: Es gibt nur wenige Unterschiede zu VB, jedoch kann Xojo mit einigen großen Stärken gegenüber VB punkten.
+Wir werden uns die Entwicklung einer Web-App ansehen und können dabei direkt Vergleiche zu ASP.NET, Silverlight und anderen Technologien ziehen. Und wir werden sehen, wie einfach man Desktop-Apps erstellen kann und wie hoch dann die Wiederverwendbarkeit sein wird.
+
+Mehr infos zu xojo gibts [hier][1].
+
+
+### Sprecher
+Lars Lehmann ist hauptberuflich Abteilungsleiter der IT- und EDV-Abteilung einer Behörde in Chemnitz. Mit dem Programmieren hat er mit 15 angefangen und arbeitet nun nebenberuflich als selbstständiger Softwareentwickler.
+Zu Xojo ist er gekommen, weil VB.NET doch einige Einschränkungen mit sich bringt, besonders wenn man nicht auf Windows-Systemen unterwegs ist. Inzwischen arbeitet er fast nur noch mit Xojo und kann uns so auch weiter gehende Fragen beantworten.
+
+## PowerPoint Karaoke
+
+Zum Jahresabschluss werden wir dieses Jahr im Anschluss an den Vortrag von Lars ein PowerPoint Karaoke veranstalten. 
+Bei PowerPoint Karaoke geht es daraum aus dem Stegreif einen Vortrag zu einem vorher nicht bekannten, zufällig ausgewählten 
+Folien halten. Diese können entweder eigens erstellt werden, oder man verwendet Folien, die man im Internet gefunden hat. 
+
+Wir ihr lustige Präsentationen habt oder eine Idee für eine Präsentation habt, wäre es toll wenn ihr sie mitbringt.
+
+
+[xojo]:https://xojo.com/
