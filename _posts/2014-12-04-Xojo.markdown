@@ -12,7 +12,7 @@ placelink: https://www.google.de/maps/place/Saxonia+Systems+AG/@51.030626,13.730
 Create Anything ist der Leitspruch von Xojo. In einer Einführung erfahren wir, was Xojo genau ist und wo dessen Wurzeln liegen. Wir lernen die IDE und die Sprache selbst kennen. Schon ein kleiner Vorgeschmack: Es gibt nur wenige Unterschiede zu VB, jedoch kann Xojo mit einigen großen Stärken gegenüber VB punkten.
 Wir werden uns die Entwicklung einer Web-App ansehen und können dabei direkt Vergleiche zu ASP.NET, Silverlight und anderen Technologien ziehen. Und wir werden sehen, wie einfach man Desktop-Apps erstellen kann und wie hoch dann die Wiederverwendbarkeit sein wird.
 
-Mehr infos zu xojo gibts [hier][1].
+Mehr infos zu xojo gibts [hier](https://xojo.com/).
 
 
 ### Sprecher
@@ -26,6 +26,3 @@ Bei PowerPoint Karaoke geht es daraum aus dem Stegreif einen Vortrag zu einem vo
 Folien halten. Diese können entweder eigens erstellt werden, oder man verwendet Folien, die man im Internet gefunden hat. 
 
 Wir ihr lustige Präsentationen habt oder eine Idee für eine Präsentation habt, wäre es toll wenn ihr sie mitbringt.
-
-
-[xojo]:https://xojo.com/
