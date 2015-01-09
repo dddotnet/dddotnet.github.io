@@ -1,7 +1,7 @@
 ---
 layout: postnew
 title:  "User Group Tour: What to look for in Execution Plans / Get your database under control"
-date:   2015-01-28 18:00:00
+date:   2015-01-28T18:00:00Z+1
 categories: treffen
 speaker: Grant Fritchey 
 place: T-Systems MMS Dresden
