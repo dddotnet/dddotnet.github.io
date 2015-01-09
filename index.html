@@ -119,8 +119,7 @@ layout: head_layout
                 </tr>
             </thead>
             <tbody>
-             {% assign nowDate = site.time | date: '%Y%m%d' %}
-
+             {% assign nowDate = site.time | date: '%Y%m%d' %} 
              {% for post in site.posts %}
                 {% assign postDate = (post.date | date: '%Y%m%d') %}
                 {% if postDate >= nowDate %}
