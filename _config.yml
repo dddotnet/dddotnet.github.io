@@ -1,4 +1,4 @@
 name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
-timezone: CET
+timezone: Europe/Berlin

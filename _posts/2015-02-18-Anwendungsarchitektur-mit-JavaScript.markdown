@@ -1,7 +1,7 @@
 ---
 layout: postnew
 title:  "Anwendungsarchitektur mit JavaScript"
-date:   2015-02-18 18:00:00
+date:   2015-02-18T18:00:00Z+1
 categories: treffen
 speaker: Matthias Fischer
 place: ProTechnology GmbH
