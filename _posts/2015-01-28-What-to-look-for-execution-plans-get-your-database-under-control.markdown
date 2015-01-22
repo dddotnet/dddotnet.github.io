@@ -19,4 +19,7 @@ Developers don’t even question the need for source control as part of their ap
 ### Sprecher
 [Grant Fritchey](http://www.scarydba.com/about-2-2/) ist Mitarbeiter bei Red Gate und hat schon mehrere Artikel geschrieben, unter anderem für SQL Server Central. Zudem ist er der Autor von "SQL Server Execution Plans" and "SQL Server 2012 Query Performance Tuning". 
 
+###Ort und Zeit
+Wir treffen uns am 18.01.2015 um 18:00 Uhr bei der [T-Systems MMS](http://www.t-systems-mms.com/). Bitte tragt euch in die [Gästeliste](https://www.xing.com/events/januar-treffen-net-usergroup-1492416) ein.
+
 #### Es verspricht also, ein technischer Abend mit einem absoluten Experten zu werden.
