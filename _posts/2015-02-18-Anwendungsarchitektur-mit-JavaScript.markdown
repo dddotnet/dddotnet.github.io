@@ -14,4 +14,4 @@ Inzwischen sind HTML5/JavaScript Anwendungen (App's) in ihrem Funktionsumfang un
 Matthias Fischer ist freier Autor, Trainer, Berater und Entwickler für .NET Technologie seit dem ersten Framework. Sein Spezialgebiet sind mobile Plattformübergreifende Apps in HTML5/JavaScript sowie Anwendungen für Windows Phone 8 und Windows 8 in C#/XAML. Als Magazin- und Fachbuchautor hat er diverse Artikel und Fachbücher zu ASP.NET, WCF, Windows Phone und Anwendungsentwicklung mit HTML5/JavaScript geschrieben. Matthias ist in Projekten als Softwareentwickler, Berater und Trainer für diverse .NET-Technologien unterwegs. Weitere Informationen über Matthias finden Sie unter: www.dotnetautor.de
 
 ###Ort und Zeit
-Wir treffen uns am 24.04.2014 um 18:00 Uhr bei der [T-Systems MMS](http://www.t-systems-mms.com/). Bitte tragt euch in die [Gästeliste](https://www.xing.com/events/treffen-net-usergroup-anwendungsarchitektur-javascript-1494221) ein.
+Wir treffen uns am 24.04.2014 um 18:00 Uhr bei der [ProTechnology](http://www.protechnology.de/). Bitte tragt euch in die [Gästeliste](https://www.xing.com/events/treffen-net-usergroup-anwendungsarchitektur-javascript-1494221) ein.
