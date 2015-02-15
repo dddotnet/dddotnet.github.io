@@ -13,11 +13,11 @@ Ein zunehmender Teil mobiler Anwendungen dient dem Zugriff auf Unternehmensdaten
 
 ##Sprecher
 
-###[Hendrik Lösch] (http://www.just-about.net/) (Saxonia Systems AG)
+####[Hendrik Lösch] (http://www.just-about.net/) (Saxonia Systems AG)
 Henrik ist Consultant und Coach der Saxonia Systems AG. Sein Schwerpunkt liegt auf dem Design und der Entwicklung von Anwendungen für Kunden im medizinischen oder industriellen Umfeld. Darüber hinaus arbeitet er als Fachautor und veröffentlicht zu Themen im Bereich der Testautomatisierung und des Clean Code.
 
 
-###Ringo Liebscher (Saxonia Systems AG)
+####Ringo Liebscher (Saxonia Systems AG)
 Ringo ist Consultant der Saxonia Systems AG mit Schwerpunkt SAP-Entwicklung. Sein Fokus liegt auf allem was hilft, SAP auch auf mobilen Endgeräten einzusetzen, wie zum Beispiel REST-Services mit SAP Mobile Platform und SAP Gateway.
 
 
