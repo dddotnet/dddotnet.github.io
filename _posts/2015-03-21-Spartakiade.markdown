@@ -1,6 +1,6 @@
 ---
 layout: postnew
-title:  "Developer Open Space 2014"
+title:  "Spartakiade 2015"
 date:   2015-03-21 09:00:00
 categories: treffen
 speaker: Konferenz
