@@ -20,4 +20,4 @@ Die Anmeldung ist ab sofort möglich unter: [spartakiade.org](http://spartakiade
 
 ###Anreise:
 
-<iframe src="https://www.google.com/maps/d/embed?mid=z0kykw6Ts4QI.kTjMXcoy9opY&hl=de" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=z0kykw6Ts4QI.kTjMXcoy9opY&hl=de" width="100%" height="480"></iframe>
