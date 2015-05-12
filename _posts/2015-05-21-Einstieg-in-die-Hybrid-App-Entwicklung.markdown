@@ -21,4 +21,4 @@ Außerdem schreibt er online als freier Autor für heise-developer und bringt f�
 Er ist international als Sprecher auf zahlreichen Konferenzen und Communities unterwegs. Zudem ist Gregor Biswanger im Auftrag der Intel GmbH als Technologieberater für die Intel Developer Zone aktiv und ist Leader bei der INdotNET (Ingolstädter .NET Developers Group).
 
 ###Ort und Zeit
-Wir treffen uns am 21.05.2015 um 18:00 Uhr bei der [ProTechnology GmbH](http://www.protechnology.de/). Bitte tragt euch in die [Gästeliste](kommt noch) ein.
+Wir treffen uns am 21.05.2015 um 18:00 Uhr bei der [ProTechnology GmbH](http://www.protechnology.de/). Bitte tragt euch in die [Gästeliste](https://www.xing.com/events/roadshow-einstieg-hybrid-app-entwicklung-1558094) ein.
