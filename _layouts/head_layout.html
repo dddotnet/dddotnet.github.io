@@ -11,7 +11,7 @@
     <title>.NET User Group Dresden</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="/Content/Base/bootstrap.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -21,23 +21,29 @@
 
     <!-- Custom styles for this template -->
     <link href="/Content/Site.css" rel="stylesheet">
-	
-	<script type="text/javascript"> 
 
-(function() { 
-    if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) { 
-        var msViewportStyle = document.createElement("style"); 
-        msViewportStyle.appendChild( 
-            document.createTextNode("@-ms-viewport{width:auto!important}") 
-        ); 
-        document.getElementsByTagName("head")[0].appendChild(msViewportStyle); 
-    } 
-})(); 
+	<script type="text/javascript">
+
+(function() {
+    if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+        var msViewportStyle = document.createElement("style");
+        msViewportStyle.appendChild(
+            document.createTextNode("@-ms-viewport{width:auto!important}")
+        );
+        document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+    }
+})();
 
 </script>
 
 </head>
 <body>
 {{ content }}
+
+<!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 </body>
 </html>
