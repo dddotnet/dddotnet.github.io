@@ -1,7 +1,7 @@
 ---
 layout: postnew
 title:  "Developer Open Space 2014"
-date:   2015-10-16 09:00:00
+date:   2015-10-16 09:00:00+0200
 categories: treffen
 speaker: Konferenz
 place: Commundo Tagungshotel Leipzig
