@@ -27,6 +27,4 @@ Die Workshops starten am Freitag 16. Oktober früh um 9 Uhr. Einchecken kannst d
 
 Möchtest du eine Fahrgemeinschaft anbieten bzw. suchst eine, sende einen Tweet mit dem Hash #devspace. Das Developer Open Space retweetet deine Nachricht über ihr Konto. Bist du bei Twitter nicht angemeldet, schick kurzgehaltene Angebote (~ 140 Zeichen) gerne an tw+dos-fahrgemeinschaft[at]torstenweber[punkt]de.
 
-###Anreise:
 
-<iframe src="https://www.google.com/maps/d/embed?mid=z0kykw6Ts4QI.k6w58SF9MlIA&hl=de" width="100%" height="500px" ></iframe>
