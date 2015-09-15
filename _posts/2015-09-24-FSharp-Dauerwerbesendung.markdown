@@ -1,7 +1,7 @@
 ---
 layout: postnew
 title:  "F# Dauerwerbesendung"
-date:   2015-09-24 18:00:00+0200
+date:   2015-09-24 18:30:00+0200
 categories: treffen
 speaker: Marcus Kohnert
 place: Saxonia Systems AG
@@ -24,4 +24,4 @@ Marcus Kohnert ist Softwareentwickler mit Schwerpunkt auf Microsoft-basierenden 
 
 
 ###Ort und Zeit
-Wir treffen uns am 24.09.2015 um 18:00 Uhr bei der [Saxonia Systems AG](http://www.saxsys.de/). Bitte tragt euch in die [Gästeliste](https://www.xing.com/events/dauerwerbesendung-1596891) ein.
+Wir treffen uns am 24.09.2015 um 18:30 Uhr bei der [Saxonia Systems AG](http://www.saxsys.de/). Bitte tragt euch in die [Gästeliste](https://www.xing.com/events/dauerwerbesendung-1596891) ein.
