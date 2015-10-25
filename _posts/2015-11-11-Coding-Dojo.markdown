@@ -8,8 +8,6 @@ place: Marktjagd GmbH
 placelink: https://goo.gl/maps/fZDFcPsA8772
 ---
 
-#Thema Coding Dojo
-
 Das nächste Treffen der .NET Usergroup Dresden wird am 11.11.2015 stattfinden. Wir haben uns vorgenommen wieder ein Coding Dojo durchzuführen.
 Hendrik wird zunächst an einem einfachen Beispiel eine kurze Einführung in testgetriebene Entwicklung geben. Im Anschluss daran geht es auch schon los und wir werden eine einfache und dann auch eine etwas schwierigere Kata gemeinsam durchführen. 
 Wer an seinem eigenen Notebook mitarbeiten möchte, ist gern eingeladen, dieses mitzubringen. Für das Dojo selbst verwenden wir ein zentrales Notebook mit VS und Resharper.
