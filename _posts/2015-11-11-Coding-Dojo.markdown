@@ -13,7 +13,7 @@ Hendrik wird zunächst an einem einfachen Beispiel eine kurze Einführung in tes
 Wer an seinem eigenen Notebook mitarbeiten möchte, ist gern eingeladen, dieses mitzubringen. Für das Dojo selbst verwenden wir ein zentrales Notebook mit VS und Resharper.
 
 #Ort und Zeit
-Neu ist auch der Veranstaltungsort, wir treffen uns diesmal bei Marktjagd um 18:00 Uhr. Trag euch bitte wie immer in die [Gästeliste](https://www.xing.com/events/coding-dojo-1615110) ein.
+Neu ist auch der Veranstaltungsort, wir treffen uns diesmal bei Marktjagd um 17:00 Uhr. Trag euch bitte wie immer in die [Gästeliste](https://www.xing.com/events/coding-dojo-1615110) ein.
 
 Marktjagd GmbH
 Schützenplatz 14
