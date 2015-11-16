@@ -1,10 +1,10 @@
 ---
 layout: postnew
-title:  "Coding Dojo" 
+title:  "Daten in Echtzeit – Datenstromanalyse mit Azure Stream Analytics" 
 date:   2015-11-25 18:00:00+0200
 categories: treffen
 speaker: Constantin Klein
-place: Marktjagd GmbH
+place: CC Computersysteme und Kommunikationstechnik GmbH
 placelink: http://web2.cylex.de/anfahrt/cc-computersysteme-u--kommunikation-2332486-anfahrt.html
 ---
 
