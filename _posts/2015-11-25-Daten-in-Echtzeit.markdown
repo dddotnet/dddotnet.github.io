@@ -1,7 +1,7 @@
 ---
 layout: postnew
 title:  "Daten in Echtzeit – Datenstromanalyse mit Azure Stream Analytics" 
-date:   2015-11-25 18:00:00+0200
+date:   2015-11-25T18:00:00Z+1
 categories: treffen
 speaker: Constantin Klein
 place: CC Computersysteme und Kommunikationstechnik GmbH
