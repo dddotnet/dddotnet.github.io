@@ -18,8 +18,7 @@ Dies lohnt sich gleich doppelt, denn neben dem Spaß an der Technik und Programm
 eine Lizenz für ein JetBrains Tool (ReSharper!) oder IDE verlost.
 
 ###Anmeldung
-
-Den Link zur Anmeldung gibt es sobald Xing wieder funktioniert. 
+Wir treffen uns diesmal bei der T-Systems MMS um 18:00 Uhr. Trag euch bitte wie immer in die [Gästeliste](https://www.xing.com/events/weihnachtstreffen-10-minuten-ruhm-1628436) ein.
 
 
 ###Anfahrt
