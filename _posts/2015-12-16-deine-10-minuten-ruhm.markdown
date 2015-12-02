@@ -1,8 +1,8 @@
 ---
 layout: postnew
-title: "Deine 10 Minuten Ruhm"
+title: "Weihnachtstreffen - Deine 10 Minuten Ruhm"
 categories: treffen
-date: 2015-12-16 18:00:00
+date: 2015-12-16 18:00:00Z+1
 speaker: Jeder
 place: T-Systems MMS
 placelink: https://goo.gl/maps/tX5ncB7jAtq
