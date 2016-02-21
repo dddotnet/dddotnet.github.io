@@ -1,7 +1,7 @@
 ---
 layout: postnew
 title:  "Dev Day 2015"
-date:   2015-05-27 12:00:00
+date:   2016-04-12 12:00:00
 categories: treffen
 speaker: Konferenz
 place: Börse Dresden
