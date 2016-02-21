@@ -1,0 +1,22 @@
+---
+layout: postnew
+title:  "Dev Day 2015"
+date:   2015-05-27 12:00:00
+categories: treffen
+speaker: Konferenz
+place: Börse Dresden
+placelink: https://www.google.com/maps/d/viewer?mid=z0kykw6Ts4QI.kTjMXcoy9opY&msa=0&hl=de&ie=UTF8&t=m&spn=0.026811,0.100422
+---
+
+##Code your World
+
+Unter dem Motto "Code your World" findet am 12.04.2016 der zweite Dev Day in der Börse Dresden statt. Veranstalter ist die Software Architektur Entwickler Community (SAEC) der T-Systems Multimedia Solutions GmbH. Die Community besteht im Kern aus einem ca. 10 köpfigen Team aus Software Architekten und Entwicklern, die sich zum Ziel gesetzt haben, Wissensaustausch und Vernetzung im IT-Bereich in Dresden voranzubringen. 
+
+Von 12:00 Uhr bis ca. 21:00 Uhr besteht die Möglichkeit, sich in entspannter und lockerer Atmosphäre bei Hot Dogs und kühlen Getränken auszutauschen und mit anderen zu vernetzen. Die Teilnahme ist kostenlos und auch für freies WLAN wird gesorgt sein. Weitere Informationen zur Veranstaltung und den Referenten findet ihr unter <a href="http://www.devday.de">devday.de</a>
+
+##FÜR WEN IST DER DEV DAY?
+
+Der Dev Day ist eine Veranstaltung für alle Software-Architekten, Software-Entwickler und Interessierte mit jeglichem Hintergrund. Sowohl Studierende als auch Berufseinsteiger oder Professionals sind herzlich eingeladen, neue Erfahrungen zu sammeln und sich zu verschiedenen Trends und Themen der IT-Branche auszutauschen. 2015 begrüßten wir mehr als 300 Gäste aus über 70 verschiedenen Firmen.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5014.2915521580635!2d13.716052!3d51.068859!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4709cfa13b27c6e7%3A0x9b9ce8f532c212a2!2sMessering+6%2C+01067+Dresden%2C+Deutschland!5e0!3m2!1sde!2s!4v1426015817663" width="100%" height="450" frameborder="0" style="border:0">
+</iframe>
