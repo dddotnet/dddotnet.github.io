@@ -1,0 +1,10 @@
+---
+layout: postnew
+title:  "test"
+date:   2015-04-12 12:00:00
+categories: treffen
+speaker: Konferenz
+place: Börse Dresden
+placelink: https://www.google.com/maps/d/viewer?mid=z0kykw6Ts4QI.kTjMXcoy9opY&msa=0&hl=de&ie=UTF8&t=m&spn=0.026811,0.100422
+---
+Testtest.
