@@ -4,8 +4,8 @@ title: "From Zero to Azure"
 categories: treffen
 date: 2016-03-17 18:00:00Z+1
 speaker: Kirsten Kluge, Oliver Guhr
-place: SLUB, Vortragssaal im 1. OG, Zellescher Weg 18, 01069 Dresden
-placelink: https://maps.google.com/maps?f=q&hl=en&q=Zellescher+Weg+18%2C+01069+Dresden%2C+Dresden%2C+DE
+place: Pro Technology GmbH
+placelink: https://www.google.de/maps/place/ProTechnology+GmbH,+Antonstra%C3%9Fe+3+a,+01097+Dresden,+Deutschland/@51.063974,13.745038,17z/data=!4m2!3m1!1s0x4709cf156d1ba0d7:0xb766407f50cfe2ad
 ---
 
 ###Thema
