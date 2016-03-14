@@ -2,7 +2,7 @@
 layout: postnew
 title: ".Net Microservices mit RabbitMQ"
 categories: treffen
-date: 2016-05-12 18:00:00
+date: 2016-05-12 18:00:00Z
 speaker: Frank Pommerening
 place: T-Systems MMS
 placelink: https://goo.gl/maps/tX5ncB7jAtq
