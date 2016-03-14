@@ -12,8 +12,8 @@ Mit Deskop, Web und Windows Phone stehen uns als .NET-Entwickler schon jede Meng
 
 In diesem Vortrag möchte Sebastian Seidel zeigen, wie man mit Xamarin Software entwickeln kann, die das Microsoft-Universum verlässt und wirklich Cross-platform ist.
 
-###Über den Sprecher:
+### Über den Sprecher:
 Sebastian Seidel ist Softwareentwickler, mobile Enthusiast, Trainer und Premier Consulting Partner für Xamarin. Er ist Inhaber von [Cayas Software](http://www.cayas.de) und twittert unter [@cayas_software](http://twitter.com/cayas_software). Wenn er nicht gerade wieder an einer App entwickelt findet man ihn im Xamarin-Forum wo er Fragen rund um die App-Entwicklung mit Xamarin beantwortet.
 
-###Ort und Zeit
+### Ort und Zeit
 Wir treffen uns am 24.04.2014 um 18:00 Uhr bei der [T-Systems MMS](http://www.t-systems-mms.com/). Bitte tragt euch in die [Gästeliste](https://www.xing.com/events/einladung-treffen-24-04-2014-cross-platform-development-with-xamarin-1375140) ein.

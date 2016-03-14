@@ -8,15 +8,15 @@ place: CC Computersysteme und Kommunikationstechnik GmbH
 placelink: http://web2.cylex.de/anfahrt/cc-computersysteme-u--kommunikation-2332486-anfahrt.html
 ---
 
-#Daten in Echtzeit – Datenstromanalyse mit Azure Stream Analytics
+# Daten in Echtzeit – Datenstromanalyse mit Azure Stream Analytics
 
 Eine ständig wachsende Anzahl an Sensoren bringt uns dem „Internet der Dinge“ kontinuierlich näher. Anwendungen, die sehr schnell eine große Menge der erzeugten Daten verarbeiten, analysieren und mit Vorhersagemodellen kombinieren müssen, sind eine logische Konsequenz. Daraus ergeben sich aber eine Reihe von Fragen: Welche Herausforderungen verbergen sich in der Verarbeitung von Datenströmen? Welche Alternativen bietet der Microsoft-Kosmos zur In-Flight Datenverarbeitung und wie gelingt der Einstieg? Diesen Fragen wollen wir in dieser Session auf den Grund gehen und zusätzlich sehen wie mit Azure Stream Analytics ein neuer Cloud-Service bei dieser Problematik weiterhilft.
 
-#Sprecher ist:
+# Sprecher ist:
 
 Constantin Klein, in der Community besser als Kostja bekannt, arbeitet bei der Freudenberg IT SE & Co. KG. Dort beschäftigt er sich mit der Entwicklung von Lösungen auf Basis der Microsoft-Produkte und Technologieplattformen. Sein besonderes Interesse gilt dabei der Gewinnung, Verarbeitung und Nutzung von Daten und Informationen. Er ist MCSD, MCITP Database Developer und MCPD Web + Enterprise Application Developer. Seit 2010 wurde er jährlich von Microsoft zum Most Valuable Professional (MVP) für SQL Server ernannt. Er engagiert sich zusätzlich im Vorstand des [Just Community e.V.] (http://www.justcommunity.de) und seit Ende 2014 auch im Vorstand des [PASS Deutschland e.V.] (http://www.sqlpass.de). Er leitet zusätzlich die [.NET User Group Frankfurt] (http://www.dotnet-ug-frankfurt.de) und sein Blog finden Sie unter kostjaklein.wordpress.com.
 
-#Wir treffen uns:
+# Wir treffen uns:
 Am 25.11.2015 um 18:00 Uhr bei der CC Computersysteme und Kommunikationstechnik GmbH, Wiener Straße 114-116, 01219 Dresden.
 [Anfahrt](http://web2.cylex.de/anfahrt/cc-computersysteme-u--kommunikation-2332486-anfahrt.html) 
 

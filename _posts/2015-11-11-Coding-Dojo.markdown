@@ -12,7 +12,7 @@ Das nächste Treffen der .NET Usergroup Dresden wird am 11.11.2015 stattfinden. 
 Hendrik wird zunächst an einem einfachen Beispiel eine kurze Einführung in testgetriebene Entwicklung geben. Im Anschluss daran geht es auch schon los und wir werden eine einfache und dann auch eine etwas schwierigere Kata gemeinsam durchführen. 
 Wer an seinem eigenen Notebook mitarbeiten möchte, ist gern eingeladen, dieses mitzubringen. Für das Dojo selbst verwenden wir ein zentrales Notebook mit VS und Resharper.
 
-#Ort und Zeit
+# Ort und Zeit
 Neu ist auch der Veranstaltungsort, wir treffen uns diesmal bei Marktjagd um 17:00 Uhr. Trag euch bitte wie immer in die [Gästeliste](https://www.xing.com/events/coding-dojo-1615110) ein.
 
 Marktjagd GmbH

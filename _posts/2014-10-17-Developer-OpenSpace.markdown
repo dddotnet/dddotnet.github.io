@@ -19,17 +19,17 @@ Jeder ist bei uns per du. Der Developer Open Space ist offen und jeder ist gleic
 
 [http://devopenspace.de/](http://devopenspace.de/)
 
-###Beginn Workshops / Developer Open Space
+### Beginn Workshops / Developer Open Space
 
 Die Workshops starten am Freitag 17. Oktober 2014 früh um 9 Uhr. Einchecken kannst du ab 8 Uhr. Am Wochenende kannst du ebenfalls ab 8 Uhr einchecken. Die ersten Kaffeerunden (optional) beginnen ab 9 Uhr, die Veranstaltung selbst startet ab 10 Uhr. Bitte sei jeweils pünktlich.
 
-###Fahrgemeinschaften
+### Fahrgemeinschaften
 
 Möchtest du eine Fahrgemeinschaft anbieten bzw. suchst eine, sende einen Tweet mit dem Hash #devspace. Das Developer Open Space retweetet deine Nachricht über ihr Konto. Bist du bei Twitter nicht angemeldet, schick kurzgehaltene Angebote (~ 140 Zeichen) gerne an tw+dos-fahrgemeinschaft[at]torstenweber[punkt]de.
 
-###Interesse? Handle schnell, denn der Developer Open Space 2014 ist fast ausgebucht.
+### Interesse? Handle schnell, denn der Developer Open Space 2014 ist fast ausgebucht.
 
 
-###Anreise:
+### Anreise:
 
 <iframe src="https://www.google.com/maps/d/embed?mid=z0kykw6Ts4QI.k6w58SF9MlIA&hl=de" width="100%" height="500px" ></iframe>

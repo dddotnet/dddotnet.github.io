@@ -16,8 +16,8 @@ Workshops sind für jeden Schwierigkeitsgrad aus der Softwareentwicklung dabei �
 Die Anmeldung ist ab sofort möglich unter: [spartakiade.org](http://spartakiade.org)
 
 
-###Interesse? Handle schnell, denn die Spartakiade 2015 ist fast ausgebucht.
+### Interesse? Handle schnell, denn die Spartakiade 2015 ist fast ausgebucht.
 
-###Anreise:
+### Anreise:
 
 <iframe src="https://www.google.com/maps/d/embed?mid=z0kykw6Ts4QI.kTjMXcoy9opY&hl=de" width="100%" height="480"></iframe>
