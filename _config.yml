@@ -1,5 +1,4 @@
 name: www.dd-dotnet.de
 markdown: kramdown
 pygments: true
-timezone: Europe/Berlin
 future: true
