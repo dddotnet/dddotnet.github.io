@@ -20,3 +20,5 @@ Frank Pommerening ist seit 2004 Softwareentwickler und -architekt im Bereich .NE
 ### Anmeldung
 
 Vergesst bitte nicht euch in der [Teilnehmerliste einzutragen](https://www.xing.com/events/net-microservices-rabbitmq-1666052).
+
+<iframe src="http://fpommerening.github.io/MicroserviceRabbitMQ/index_dd.html#/" width="100%" height="450" frameborder="0" style="border:0"> </iframe>
