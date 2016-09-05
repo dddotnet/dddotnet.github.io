@@ -1,6 +1,6 @@
 ---
 layout: postnew
-title: "Build your own Azure website"
+title: "Hack@Home Dresden"
 categories: treffen
 date: 2016-09-21 18:00:00Z
 speaker: Hackathon
