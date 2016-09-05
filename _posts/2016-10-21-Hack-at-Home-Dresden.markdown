@@ -12,12 +12,11 @@ placelink: https://goo.gl/maps/2EfnKXAc57G2
 
 Entwicklung von modernsten Applikationen rund um Predictive Maintenance und das Internet der Dinge. Zusammen mit thyssenkrupp kannst du Lösungen entwickeln und technische Anlagen sicherer und zuverlässiger ausgestalten.
 
+Mach mit beim größten Hackathon, den Microsoft in Deutschland je veranstaltet hat! Die Digitalisierung verändert unsere Welt wie kaum je eine gesellschaftliche Entwicklung vor ihr – hier kannst Du Deine Chance nutzen, große Herausforderungen von morgen bereits mit der Technologie von heute anzugehen. An bundesweit verschiedenen Standorten entwickelst Du und Dein Team mit 1000 anderen Teilnehmern die Lösungen der Zukunft exklusiv auf der brandneuen Microsoft Cloud Deutschland. Professionell begleitet und bewertet werden Eure Lösungen von unseren Partnern aus Fakultäten, Industrie und der Tech Branche. Zudem erwarten alle Teilnehmer tolle Give Aways und zusätzlich für die Gewinner attraktive Microsoft Devices vor Ort.
 
 ## Anmeldung
 
 Anmelden könnt ihr euch unter [hier](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x418723a6d4).
-
-Mach mit beim größten Hackathon, den Microsoft in Deutschland je veranstaltet hat! Die Digitalisierung verändert unsere Welt wie kaum je eine gesellschaftliche Entwicklung vor ihr – hier kannst Du Deine Chance nutzen, große Herausforderungen von morgen bereits mit der Technologie von heute anzugehen. An bundesweit verschiedenen Standorten entwickelst Du und Dein Team mit 1000 anderen Teilnehmern die Lösungen der Zukunft exklusiv auf der brandneuen Microsoft Cloud Deutschland. Professionell begleitet und bewertet werden Eure Lösungen von unseren Partnern aus Fakultäten, Industrie und der Tech Branche. Zudem erwarten alle Teilnehmer tolle Give Aways und zusätzlich für die Gewinner attraktive Microsoft Devices vor Ort.
 
 ## Anfahrt
 
