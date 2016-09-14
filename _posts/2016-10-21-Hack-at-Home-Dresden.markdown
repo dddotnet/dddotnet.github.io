@@ -2,7 +2,7 @@
 layout: postnew
 title: "Hack@Home Dresden"
 categories: treffen
-date: 2016-09-21 18:00:00Z
+date: 2016-10-21 10:00:00Z
 speaker: Hackathon
 place: Technische Universität Dresden
 placelink: https://goo.gl/maps/2EfnKXAc57G2
