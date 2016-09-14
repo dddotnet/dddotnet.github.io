@@ -4,8 +4,8 @@ title: "Build your own Azure website"
 categories: treffen
 date: 2016-09-21 18:00:00Z
 speaker: Kirsten Kluge
-place: T-Systems MMS
-placelink: https://goo.gl/maps/tX5ncB7jAtq
+place: Pro Technology GmbH
+placelink: https://www.google.de/maps/place/ProTechnology+GmbH,+Antonstra%C3%9Fe+3+a,+01097+Dresden,+Deutschland/@51.063974,13.745038,17z/data=!4m2!3m1!1s0x4709cf156d1ba0d7:0xb766407f50cfe2ad
 ---
 
 ## Thema
