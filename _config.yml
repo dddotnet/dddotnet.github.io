@@ -1,4 +1,4 @@
 name: www.dd-dotnet.de
 markdown: kramdown
-pygments: true
 future: true
+highlighter: rouge
