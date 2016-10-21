@@ -1,7 +1,7 @@
 ---
 layout: postnew
 title:  "ReSharper Deep Dive"
-date:   2015-11-10 18:00:00+0200
+date:   2016-11-10 18:00:00+0200
 categories: treffen
 speaker: Hendrik Lösch
 place: Saxonia Systems AG
