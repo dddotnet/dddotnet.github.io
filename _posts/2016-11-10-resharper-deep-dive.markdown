@@ -28,6 +28,11 @@ für den ReSharper nutzen könnt. Mitmachen lohnt sich also!
 Henrik ist Consultant und Coach der Saxonia Systems AG. Sein Schwerpunkt liegt auf dem Design und der Entwicklung von Anwendungen für Kunden im medizinischen oder industriellen Umfeld. Darüber hinaus arbeitet er als Fachautor und veröffentlicht zu Themen im Bereich der Testautomatisierung und des Clean Code.
 
 
+## Anmeldung
+
+Anmelden könnt ihr euch unter [hier](https://www.meetup.com/de-DE/NET-User-Group-Dresden/events/235100972/).
+
+
 ### Ort und Zeit
 Wir treffen uns am 10.11.2016 um 18:00 Uhr bei der [Saxonia Systems AG](http://www.saxsys.de/).
 Der Link zur Gästeliste wird noch veröffentlicht.
