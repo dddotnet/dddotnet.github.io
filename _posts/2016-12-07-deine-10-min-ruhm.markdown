@@ -2,7 +2,7 @@
 layout: postnew
 title: "Weihnachtstreffen - Deine 10 Minuten Ruhm"
 categories: treffen
-date: 2016-12-07 18:00:00Z+1
+date: 2016-12-13 18:00:00Z+1
 speaker: Jeder
 place: Saxonia Systems AG
 placelink: https://maps.google.de/maps?ll=51.030626,13.730163&z=17&q=Saxonia+Systems+AG&output=classic&dg=ntvb
