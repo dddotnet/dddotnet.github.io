@@ -11,7 +11,7 @@ placelink: https://maps.google.de/maps?ll=51.030626,13.730163&z=17&q=Saxonia+Sys
 
 Das letzte Treffen in diesem Jahr steht unter dem Motto “Deine 10 Minuten Ruhm”.
 
-Am 7. Dezember findet ab 18 Uhr unser traditionelles Weihnachtstreffen statt. In lockerer Atmosphäre stehen nicht einzelne Sprecher, sondern die Gemeinschaft der Usergroup im Mittelpunkt. Denn bei der Veranstaltung kann jeder einen Vortrag von maximal 10 Minuten Länge über ein Thema das ihm am Herzen liegt halten.
+Am 13. Dezember findet ab 18 Uhr unser traditionelles Weihnachtstreffen statt. In lockerer Atmosphäre stehen nicht einzelne Sprecher, sondern die Gemeinschaft der Usergroup im Mittelpunkt. Denn bei der Veranstaltung kann jeder einen Vortrag von maximal 10 Minuten Länge über ein Thema das ihm am Herzen liegt halten.
 
 ### Anmeldung
 Trag euch bitte wie immer in die [Gästeliste](https://www.meetup.com/de-DE/NET-User-Group-Dresden/events/235706575/) ein.
