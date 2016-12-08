@@ -5,7 +5,7 @@ categories: treffen
 date: 2016-12-13 18:00:00Z+1
 speaker: Jeder
 place: Develappers GmbH
-placelink:https://goo.gl/maps/xxkfFBxft8k
+placelink: https://goo.gl/maps/xxkfFBxft8k
 ---
 ## Weihnachtstreffen
 
