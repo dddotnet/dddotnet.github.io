@@ -4,8 +4,8 @@ title: "Weihnachtstreffen - Deine 10 Minuten Ruhm"
 categories: treffen
 date: 2016-12-13 18:00:00Z+1
 speaker: Jeder
-place: Saxonia Systems AG
-placelink: https://maps.google.de/maps?ll=51.030626,13.730163&z=17&q=Saxonia+Systems+AG&output=classic&dg=ntvb
+place: Develappers GmbH
+placelink:https://goo.gl/maps/xxkfFBxft8k
 ---
 ## Weihnachtstreffen
 
@@ -18,4 +18,4 @@ Trag euch bitte wie immer in die [Gästeliste](https://www.meetup.com/de-DE/NET-
 
 
 ### Anfahrt
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2509.2162821222414!2d13.730163!3d51.030626!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4709c5ed3675f91f%3A0x477c8e08bba82a94!2sSaxonia+Systems+AG!5e0!3m2!1sde!2sde!4v1479635094805" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2506.983862577781!2d13.74922601608198!3d51.07184795027516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4709c5786fcf0319%3A0x7810c971ca23dcc2!2sDevelappers+GmbH!5e0!3m2!1sde!2sde!4v1481189686772" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
