@@ -18,13 +18,15 @@ Was Euch neben einem Sitzplatz und Getränken im Live Stream erwartet steht auf 
 Dazu ein kurzer Auszug:
 
 Join Kevin Gallo and the Windows engineering team as they show how the latest advances in Windows 10 APIs and tooling will help you build great software:
-* See what’s new with Windows developer tooling: UWP tooling, Bash, Developer mode, and more.
-* Learn about the latest XAML advancements and how UWP helps you build Windows apps that are more personal and productive.
-* Hear the developer story behind the recent announcements of Cortana skills and the new Windows mixed-reality headsets.
-* We’ll close out the event with a live Q&A panel to answer your burning questions.
+
+- See what’s new with Windows developer tooling: UWP tooling, Bash, Developer mode, and more.
+- Learn about the latest XAML advancements and how UWP helps you build Windows apps that are more personal and productive.
+- Hear the developer story behind the recent announcements of Cortana skills and the new Windows mixed-reality headsets.
+- We’ll close out the event with a live Q&A panel to answer your burning questions.
 
 Bei Interesse können wir danach noch mit den Ingenieuren des Windows Produktgruppe sprechen:
-* Exclusive MVP Viewing Party Q&A with Windows Engineers (via Skype)
+
+- Exclusive MVP Viewing Party Q&A with Windows Engineers (via Skype)
 
 ### Anmeldung
 Trag euch bitte wie immer in die [Gästeliste](https://www.meetup.com/de-DE/NET-User-Group-Dresden/events/237400944/) ein.
