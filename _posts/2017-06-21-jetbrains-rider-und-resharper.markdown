@@ -2,7 +2,7 @@
 layout: postnew
 title: "JetBrains Rider und ReSharper"
 categories: treffen
-date: 2017-06-20 18:00:00Z+1
+date: 2017-06-21 18:00:00Z+1
 speaker: Matthias Koch
 place: T-Systems MMS
 placelink: https://goo.gl/maps/tX5ncB7jAtq
@@ -20,7 +20,7 @@ Abschließend wird eine kurze Einleitung zum Thema Plugins in ReSharper gegeben.
 Matthias Koch arbeitet als Software Developer bei JetBrains. Im ReSharper Team ist er insbesondere für das JS/TS Subsystem mitverantwortlich. Zu seinen Themenschwerpunkten gehören Software Engineering, Software Testing sowie alle Belange rund um Clean Code. In seiner Freizeit arbeitet er vor allem an testbezogenen Projekten, wie zum Beispiel TestFx oder TestLinker.
 
 ## Ort und Zeit
-Wir treffen uns am 20.06.2017 um 18:00 Uhr bei der T-Systems MMS. Die Gästeliste wird auf [Meetup](https://www.meetup.com/de-DE/NET-User-Group-Dresden/) veröffentlicht.
+Wir treffen uns am 21.06.2017 um 18:00 Uhr bei der T-Systems MMS. Die Gästeliste wird auf [Meetup](https://www.meetup.com/de-DE/NET-User-Group-Dresden/) veröffentlicht.
 
 ### Anfahrt
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2506.4089465111338!2d13.723632315754358!3d51.08245997956753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4709cf009b4093af%3A0x79ed448bebc44b75!2sT-Systems+Multimedia+Solutions+GmbH!5e0!3m2!1sde!2sde!4v1493235007863" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
