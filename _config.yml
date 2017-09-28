@@ -2,3 +2,4 @@ name: www.dd-dotnet.de
 markdown: kramdown
 future: true
 highlighter: rouge
+timezone: Europe/Berlin
