@@ -9,7 +9,7 @@ placelink: https://maps.google.com/maps?f=q&hl=en&q=Schweriner+Stra%C3%9Fe+1%2C+
 ---
 
 ## Weihnachtstreffen - Deine 10 Minuten Ruhm
-<p>Das letzte Treffen in des Jahres steht wie immer unter dem Motto “Deine 10 Minuten Ruhm”.</p> <p>Am 14. Dezember findet ab 18 Uhr unser traditionelles Weihnachtstreffen statt. In lockerer Atmosphäre stehen nicht einzelne Sprecher, sondern die Gemeinschaft der Usergroup im Mittelpunkt. Denn bei der Veranstaltung kann jeder einen Vortrag von maximal 10 Minuten Länge über ein Thema das ihm am Herzen liegt halten.</p> 
+<p>Das letzte Treffen in des Jahres steht wie immer unter dem Motto “Deine 10 Minuten Ruhm”.</p> <p>Am 14. Dezember findet ab 18 Uhr unser traditionelles Weihnachtstreffen statt. In lockerer Atmosphäre stehen nicht einzelne Sprecher, sondern die Gemeinschaft der Usergroup im Mittelpunkt. Denn bei der Veranstaltung kann jeder einen Vortrag von maximal 10 Minuten Länge über ein Thema das ihm am Herzen liegt halten.</p> <p>Die Materna GmbH verlost unter allen Teilnehmern eine 4-Monate Dresden-For-Friends-Karte. Den Auslosungsmechanismus können wir während des Treffens entwickeln. </p> 
 
 ## Ort und Zeit
 Wir treffen uns am 14. December 2017 um 18:00 Uhr bei [Materna GmbH](https://maps.google.com/maps?f=q&hl=en&q=Schweriner+Stra%C3%9Fe+1%2C+Dresden%2C+de).  
