@@ -2,7 +2,7 @@
 layout: postnew
 title: "Einstieg in die .net Welt"
 categories: treffen
-date: 2018-10-25T18:00:00.000Z
+date: 2018-10-25T16:00:00.000Z
 speaker: "siehe Meetup"
 place: ProTechnology GmbH
 placelink: https://maps.google.com/maps?f=q&hl=en&q=Antonstra%C3%9Fe+3a%2C+Dresden%2C+de
