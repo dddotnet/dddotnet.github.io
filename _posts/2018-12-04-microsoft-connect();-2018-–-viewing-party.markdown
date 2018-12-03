@@ -2,7 +2,7 @@
 layout: postnew
 title: "Microsoft Connect(); 2018 – Viewing Party"
 categories: treffen
-date: 2018-12-04T18:00:00.000Z
+date: 2018-12-04T16:00:00.000Z
 speaker: "siehe Meetup"
 place: ProTechnology GmbH
 placelink: https://maps.google.com/maps?f=q&hl=en&q=Antonstra%C3%9Fe+3a%2C+Dresden%2C+de
