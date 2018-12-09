@@ -2,7 +2,7 @@
 layout: postnew
 title: "Weihnachtstreffen - Deine 10 Minuten Ruhm"
 categories: treffen
-date: 2018-12-12T18:00:00.000Z
+date: 2018-12-12T17:00:00.000Z
 speaker: "siehe Meetup"
 place: Develappers GmbH
 placelink: https://maps.google.com/maps?f=q&hl=en&q=K%C3%B6nigsbr%C3%BCckerstr.+76%2C+Dresden%2C+de
